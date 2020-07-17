@@ -58,5 +58,9 @@
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow Messenger to access your camera</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow Messenger to access your gallery</string>
 </dict>
 </plist>
